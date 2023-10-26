@@ -30,7 +30,7 @@
 <defs>
     <style>
       .cls-1 {
-        font-size: 408.333px;
+        font-size: 400px;
         fill: #e3cc00;
         font-family: AntsyPants;
       }
@@ -38,11 +38,7 @@
       .cls-2 {
         fill: #e30000;
       }
-
-      .cls-3 {
-        font-size: 416.667px;
-      }
     </style>
   </defs>
-  <text id="Todo_Para_Fiesta_Fiestas" data-name="Todo Para Fiesta Fiestas" class="cls-1" x="-18" y="416">Todo Para Fiesta<tspan class="cls-2"> <tspan class="cls-3">Fiestas</tspan></tspan></text>
+  <text id="Todo_Para_Fiesta_" data-name="Todo Para Fiesta " class="cls-1" y="495">Todo Para Fiesta<tspan class="cls-2"> </tspan></text>
 </svg>
